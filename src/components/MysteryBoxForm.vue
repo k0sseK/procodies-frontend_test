@@ -28,8 +28,8 @@
         <div class="flex flex-row justify-between gap-3">
             <input
                 type="text"
-                name="postal_code"
-                id="postal_code"
+                name="postcode"
+                id="postcode"
                 class="w-1/2 block w-full rounded-md border-0 py-2 pl-3 pr-1.5 text-gray-900 ring-1 ring-inset ring-gray-400 placeholder:text-gray-400 focus:ring-1 focus:ring-inset focus:ring-[#2D473E] focus:outline-none sm:text-base sm:leading-6"
                 placeholder="Postal code"
             />
